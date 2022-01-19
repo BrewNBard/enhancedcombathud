@@ -2,9 +2,9 @@
   "name": "enhancedcombathud",
   "title": "Argon - Combat HUD",
   "description": "It's Magic",
-  "systems": ["dnd5e"],
+  "systems": ["sfrpg"],
   "version": "0.1",
-  "author": "theripper93, Mouse0270",
+  "author": "horizonprophet, theripper93, Mouse0270",
   "authors": [
       {
           "name": "theripper93",
